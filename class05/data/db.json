@@ -1,0 +1,110 @@
+{
+  "alunos": [
+    {
+      "id": "2",
+      "nome": "Bruno Santos",
+      "email": "bruno.santos@email.com"
+    },
+    {
+      "id": "3",
+      "nome": "Carlos Lima",
+      "email": "carlos.lima@email.com"
+    },
+    {
+      "id": "4606",
+      "nome": "Daniela Souza",
+      "email": "daniela.souza@email.com"
+    },
+    {
+      "id": "e74d",
+      "nome": "Eduardo Pereira",
+      "email": "eduardo.pereira@email.com"
+    }
+  ],
+  "cursos": [
+    {
+      "id": "1",
+      "nome": "Desenvolvimento Web com JavaScript",
+      "descricao": "Aprenda a criar aplicações web modernas utilizando HTML, CSS e JavaScript.",
+      "duracao": "40 horas",
+      "instrutor": "Ana Souza"
+    },
+    {
+      "id": "2",
+      "nome": "Introdução ao Python",
+      "descricao": "Curso para iniciantes que desejam aprender lógica de programação e desenvolvimento com Python.",
+      "duracao": "30 horas",
+      "instrutor": "Carlos Mendes"
+    },
+    {
+      "id": "3",
+      "nome": "Banco de Dados com SQL",
+      "descricao": "Aprenda os fundamentos de bancos de dados relacionais e manipulação de dados com SQL.",
+      "duracao": "35 horas",
+      "instrutor": "Fernanda Lima"
+    },
+    {
+      "id": "4",
+      "nome": "Desenvolvimento de APIs com Java Spring",
+      "descricao": "Construa APIs robustas utilizando Java e o framework Spring Boot.",
+      "duracao": "45 horas",
+      "instrutor": "Rafael Silva"
+    },
+    {
+      "id": "5",
+      "nome": "Fundamentos de Computação em Nuvem",
+      "descricao": "Conheça os principais conceitos e serviços de computação em nuvem com foco em AWS, Azure e Google Cloud.",
+      "duracao": "25 horas",
+      "instrutor": "Mariana Castro"
+    },
+    {
+      "id": "19fa",
+      "nome": "Desenvolvimento Mobile com React Native",
+      "descricao": "Aprenda a desenvolver aplicativos móveis para Android e iOS utilizando React Native.",
+      "duracao": "50 horas",
+      "instrutor": "Lucas Almeida"
+    }
+  ],
+  "projetos": [
+    {
+      "id": "1",
+      "nome": "Desenvolvimento de Plataforma EAD",
+      "descricao": "Criação de uma plataforma de ensino a distância para cursos online.",
+      "data_inicio": "2024-01-15",
+      "data_termino": "2024-06-30",
+      "status": "Concluído"
+    },
+    {
+      "id": "2",
+      "nome": "Sistema de Controle de Estoque",
+      "descricao": "Desenvolvimento de um sistema web para controle de estoque de uma farmácia.",
+      "data_inicio": "2024-03-01",
+      "data_termino": "2024-09-30",
+      "status": "Em andamento"
+    },
+    {
+      "id": "3",
+      "nome": "Aplicativo de Agendamento",
+      "descricao": "Aplicativo mobile para agendamento de serviços de estética.",
+      "data_inicio": "2024-05-10",
+      "data_termino": "2024-10-20",
+      "status": "Em andamento"
+    },
+    {
+      "id": "4",
+      "nome": "Site Institucional para ONG",
+      "descricao": "Desenvolvimento de um site institucional para uma organização não governamental.",
+      "data_inicio": "2024-07-01",
+      "data_termino": "2024-08-15",
+      "status": "Planejado"
+    },
+    {
+      "id": "5",
+      "nome": "Dashboard de Análise de Dados",
+      "descricao": "Criação de um dashboard interativo para análise de dados financeiros.",
+      "data_inicio": "2024-02-20",
+      "data_termino": "2024-05-15",
+      "status": "Concluído"
+    }
+  ]
+}
