@@ -1,0 +1,10 @@
+#menu {
+    position: fixed;
+    background-color: #fff;
+    width: 78%;
+    height: 5rem;
+    border-radius: 3rem;
+    padding: 0rem 2rem;
+    top: 3rem;
+    z-index: 9999;
+}
