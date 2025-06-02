@@ -1,9 +1,9 @@
 import { Button } from 'react-bootstrap'
 import styles from './ButtonDefault.module.css'
 
-const ButtonDefault = ({ texto }) => {
+const ButtonDefault = ({ texto, type }) => {
   return (
-    <Button id={styles.btnDefault}>{texto}</Button>
+    <Button type={type} id={styles.btnDefault}>{texto}</Button>
   )
 }
 

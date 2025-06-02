@@ -19,13 +19,13 @@ const Menu = () => {
             </Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link as={Link} to="/sobre-nos">
-              Sobre Nós
+            <Nav.Link as={Link} to="/alunos">
+              Alunos
             </Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link as={Link} to="/artigos">
-              Artigos
+            <Nav.Link as={Link} to="/cursos">
+              Cursos
             </Nav.Link>
           </Nav.Item>
         </Nav>
