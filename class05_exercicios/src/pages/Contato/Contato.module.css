@@ -1,9 +1,11 @@
 .text {
     width: 8rem;
     padding: 0rem 8rem;
+    text-align: end;
 }
 
 .formulario {
     width: 8rem;
     padding: 3rem 8rem;
+    margin-right: 3rem;
 }
