@@ -1,0 +1,1069 @@
+{
+  "categorias": [
+    {
+      "id": "01",
+      "categoria": "Salário"
+    },
+    {
+      "id": "02",
+      "categoria": "Freelance"
+    },
+    {
+      "id": "03",
+      "categoria": "Moradia"
+    },
+    {
+      "id": "04",
+      "categoria": "Transporte"
+    },
+    {
+      "id": "05",
+      "categoria": "Alimentação"
+    },
+    {
+      "id": "06",
+      "categoria": "Educação"
+    },
+    {
+      "id": "07",
+      "categoria": "Saúde"
+    },
+    {
+      "id": "08",
+      "categoria": "Lazer"
+    },
+    {
+      "id": "09",
+      "categoria": "Utilidades"
+    },
+    {
+      "id": "10",
+      "categoria": "Tecnologia"
+    },
+    {
+      "id": "11",
+      "categoria": "Pet"
+    },
+    {
+      "id": "12",
+      "categoria": "Vestuário"
+    },
+    {
+      "id": "13",
+      "categoria": "Investimentos"
+    },
+    {
+      "id": "14",
+      "categoria": "Emergência"
+    }
+  ],
+  "transacoes": [
+    {
+      "id": "0001",
+      "descricao": "Salário - Programador",
+      "valor": "9000.00",
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-01-05"
+    },
+    {
+      "id": "0002",
+      "descricao": "Financiamento casa",
+      "valor": "2200.00",
+      "tipo": "despesa",
+      "categoria": "Moradia",
+      "data": "2025-01-10"
+    },
+    {
+      "id": "0003",
+      "descricao": "Financiamento carro",
+      "valor": "850.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-01-10"
+    },
+    {
+      "id": "0004",
+      "descricao": "Supermercado",
+      "valor": "720.50",
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-01-08"
+    },
+    {
+      "id": "0005",
+      "descricao": "Escola filho",
+      "valor": "680.00",
+      "tipo": "despesa",
+      "categoria": "Educação",
+      "data": "2025-01-15"
+    },
+    {
+      "id": "0006",
+      "descricao": "Plano de saúde família",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-01-18"
+    },
+    {
+      "id": "0007",
+      "descricao": "Combustível",
+      "valor": "320.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-01-12"
+    },
+    {
+      "id": "0008",
+      "descricao": "Conta de luz",
+      "valor": "180.50",
+      "tipo": "despesa",
+      "categoria": "Utilidades",
+      "data": "2025-01-20"
+    },
+    {
+      "id": "0009",
+      "descricao": "Internet banda larga",
+      "valor": "120.00",
+      "tipo": "despesa",
+      "categoria": "Utilidades",
+      "data": "2025-01-22"
+    },
+    {
+      "id": "0010",
+      "descricao": "Veterinário cachorro",
+      "valor": "150.00",
+      "tipo": "despesa",
+      "categoria": "Pet",
+      "data": "2025-01-25"
+    },
+    {
+      "id": "0011",
+      "descricao": "Ração cachorro",
+      "valor": "85.00",
+      "tipo": "despesa",
+      "categoria": "Pet",
+      "data": "2025-01-14"
+    },
+    {
+      "id": "0012",
+      "descricao": "Streaming Netflix",
+      "valor": "32.90",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-01-28"
+    },
+    {
+      "id": "0013",
+      "descricao": "Curso online Udemy",
+      "valor": "89.90",
+      "tipo": "despesa",
+      "categoria": "Tecnologia",
+      "data": "2025-01-30"
+    },
+    {
+      "id": "0014",
+      "descricao": "Salário - Programador",
+      "valor": "9000.00",
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-02-05"
+    },
+    {
+      "id": "0015",
+      "descricao": "Financiamento casa",
+      "valor": "2200.00",
+      "tipo": "despesa",
+      "categoria": "Moradia",
+      "data": "2025-02-10"
+    },
+    {
+      "id": "0016",
+      "descricao": "Financiamento carro",
+      "valor": "850.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-02-10"
+    },
+    {
+      "id": "0017",
+      "descricao": "Supermercado",
+      "valor": "650.80",
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-02-03"
+    },
+    {
+      "id": "0018",
+      "descricao": "Escola filho",
+      "valor": "680.00",
+      "tipo": "despesa",
+      "categoria": "Educação",
+      "data": "2025-02-15"
+    },
+    {
+      "id": "0019",
+      "descricao": "Plano de saúde família",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-02-18"
+    },
+    {
+      "id": "0020",
+      "descricao": "Material escolar filho",
+      "valor": "280.00",
+      "tipo": "despesa",
+      "categoria": "Educação",
+      "data": "2025-02-01"
+    },
+    {
+      "id": "0021",
+      "descricao": "Combustível",
+      "valor": "340.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-02-12"
+    },
+    {
+      "id": "0022",
+      "descricao": "Conta de luz",
+      "valor": "195.20",
+      "tipo": "despesa",
+      "categoria": "Utilidades",
+      "data": "2025-02-20"
+    },
+    {
+      "id": "0023",
+      "descricao": "Carnaval - viagem família",
+      "valor": "1200.00",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-02-10"
+    },
+    {
+      "id": "0024",
+      "descricao": "Freelance desenvolvimento",
+      "valor": "1500.00",
+      "tipo": "receita",
+      "categoria": "Freelance",
+      "data": "2025-02-28"
+    },
+    {
+      "id": "0025",
+      "descricao": "Salário - Programador",
+      "valor": "9000.00",
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-03-05"
+    },
+    {
+      "id": "0026",
+      "descricao": "Financiamento casa",
+      "valor": "2200.00",
+      "tipo": "despesa",
+      "categoria": "Moradia",
+      "data": "2025-03-10"
+    },
+    {
+      "id": "0027",
+      "descricao": "Financiamento carro",
+      "valor": "850.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-03-10"
+    },
+    {
+      "id": "0028",
+      "descricao": "Supermercado",
+      "valor": "780.30",
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-03-05"
+    },
+    {
+      "id": "0029",
+      "descricao": "Escola filho",
+      "valor": "680.00",
+      "tipo": "despesa",
+      "categoria": "Educação",
+      "data": "2025-03-15"
+    },
+    {
+      "id": "0030",
+      "descricao": "Plano de saúde família",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-03-18"
+    },
+    {
+      "id": "0031",
+      "descricao": "Combustível",
+      "valor": "365.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-03-15"
+    },
+    {
+      "id": "0032",
+      "descricao": "Manutenção carro",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-03-22"
+    },
+    {
+      "id": "0033",
+      "descricao": "Conta de luz",
+      "valor": "175.80",
+      "tipo": "despesa",
+      "categoria": "Utilidades",
+      "data": "2025-03-20"
+    },
+    {
+      "id": "0034",
+      "descricao": "Roupas filho",
+      "valor": "320.00",
+      "tipo": "despesa",
+      "categoria": "Vestuário",
+      "data": "2025-03-25"
+    },
+    {
+      "id": "0035",
+      "descricao": "Salário - Programador",
+      "valor": "9000.00",
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-04-05"
+    },
+    {
+      "id": "0036",
+      "descricao": "Financiamento casa",
+      "valor": "2200.00",
+      "tipo": "despesa",
+      "categoria": "Moradia",
+      "data": "2025-04-10"
+    },
+    {
+      "id": "0037",
+      "descricao": "Financiamento carro",
+      "valor": "850.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-04-10"
+    },
+    {
+      "id": "0038",
+      "descricao": "Supermercado",
+      "valor": "690.45",
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-04-07"
+    },
+    {
+      "id": "0039",
+      "descricao": "Escola filho",
+      "valor": "680.00",
+      "tipo": "despesa",
+      "categoria": "Educação",
+      "data": "2025-04-15"
+    },
+    {
+      "id": "0040",
+      "descricao": "Plano de saúde família",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-04-18"
+    },
+    {
+      "id": "0041",
+      "descricao": "Combustível",
+      "valor": "290.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-04-12"
+    },
+    {
+      "id": "0042",
+      "descricao": "Conta de luz",
+      "valor": "165.30",
+      "tipo": "despesa",
+      "categoria": "Utilidades",
+      "data": "2025-04-20"
+    },
+    {
+      "id": "0043",
+      "descricao": "Aniversário filho",
+      "valor": "800.00",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-04-28"
+    },
+    {
+      "id": "0044",
+      "descricao": "Consulta médica filho",
+      "valor": "180.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-04-25"
+    },
+    {
+      "id": "0045",
+      "descricao": "Salário - Programador",
+      "valor": "9000.00",
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-05-05"
+    },
+    {
+      "id": "0046",
+      "descricao": "Financiamento casa",
+      "valor": "2200.00",
+      "tipo": "despesa",
+      "categoria": "Moradia",
+      "data": "2025-05-10"
+    },
+    {
+      "id": "0047",
+      "descricao": "Financiamento carro",
+      "valor": "850.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-05-10"
+    },
+    {
+      "id": "0048",
+      "descricao": "Supermercado",
+      "valor": "720.80",
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-05-04"
+    },
+    {
+      "id": "0049",
+      "descricao": "Escola filho",
+      "valor": "680.00",
+      "tipo": "despesa",
+      "categoria": "Educação",
+      "data": "2025-05-15"
+    },
+    {
+      "id": "0050",
+      "descricao": "Plano de saúde família",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-05-18"
+    },
+    {
+      "id": "0051",
+      "descricao": "Dia das Mães",
+      "valor": "250.00",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-05-12"
+    },
+    {
+      "id": "0052",
+      "descricao": "Combustível",
+      "valor": "310.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-05-15"
+    },
+    {
+      "id": "0053",
+      "descricao": "Conta de luz",
+      "valor": "190.70",
+      "tipo": "despesa",
+      "categoria": "Utilidades",
+      "data": "2025-05-20"
+    },
+    {
+      "id": "0054",
+      "descricao": "Equipamento home office",
+      "valor": "650.00",
+      "tipo": "despesa",
+      "categoria": "Tecnologia",
+      "data": "2025-05-28"
+    },
+    {
+      "id": "0055",
+      "descricao": "Salário - Programador",
+      "valor": "9000.00",
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-06-05"
+    },
+    {
+      "id": "0056",
+      "descricao": "Financiamento casa",
+      "valor": "2200.00",
+      "tipo": "despesa",
+      "categoria": "Moradia",
+      "data": "2025-06-10"
+    },
+    {
+      "id": "0057",
+      "descricao": "Financiamento carro",
+      "valor": "850.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-06-10"
+    },
+    {
+      "id": "0058",
+      "descricao": "Supermercado",
+      "valor": "820.60",
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-06-02"
+    },
+    {
+      "id": "0059",
+      "descricao": "Escola filho",
+      "valor": "680.00",
+      "tipo": "despesa",
+      "categoria": "Educação",
+      "data": "2025-06-15"
+    },
+    {
+      "id": "0060",
+      "descricao": "Plano de saúde família",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-06-18"
+    },
+    {
+      "id": "0061",
+      "descricao": "Festa Junina escola",
+      "valor": "120.00",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-06-23"
+    },
+    {
+      "id": "0062",
+      "descricao": "Combustível",
+      "valor": "330.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-06-18"
+    },
+    {
+      "id": "0063",
+      "descricao": "Conta de luz",
+      "valor": "210.40",
+      "tipo": "despesa",
+      "categoria": "Utilidades",
+      "data": "2025-06-20"
+    },
+    {
+      "id": "0064",
+      "descricao": "Seguro carro",
+      "valor": "1200.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-06-30"
+    },
+    {
+      "id": "0065",
+      "descricao": "Salário - Programador",
+      "valor": "9000.00",
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-07-05"
+    },
+    {
+      "id": "0066",
+      "descricao": "Financiamento casa",
+      "valor": "2200.00",
+      "tipo": "despesa",
+      "categoria": "Moradia",
+      "data": "2025-07-10"
+    },
+    {
+      "id": "0067",
+      "descricao": "Financiamento carro",
+      "valor": "850.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-07-10"
+    },
+    {
+      "id": "0068",
+      "descricao": "Supermercado",
+      "valor": "950.30",
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-07-06"
+    },
+    {
+      "id": "0069",
+      "descricao": "Férias escolares - atividades",
+      "valor": "600.00",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-07-15"
+    },
+    {
+      "id": "0070",
+      "descricao": "Plano de saúde família",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-07-18"
+    },
+    {
+      "id": "0071",
+      "descricao": "Viagem férias família",
+      "valor": "2500.00",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-07-20"
+    },
+    {
+      "id": "0072",
+      "descricao": "Combustível viagem",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-07-22"
+    },
+    {
+      "id": "0073",
+      "descricao": "Conta de luz",
+      "valor": "185.90",
+      "tipo": "despesa",
+      "categoria": "Utilidades",
+      "data": "2025-07-20"
+    },
+    {
+      "id": "0074",
+      "descricao": "Freelance extra",
+      "valor": "800.00",
+      "tipo": "receita",
+      "categoria": "Freelance",
+      "data": "2025-07-31"
+    },
+    {
+      "id": "0075",
+      "descricao": "Salário - Programador",
+      "valor": "9000.00",
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-08-05"
+    },
+    {
+      "id": "0076",
+      "descricao": "Financiamento casa",
+      "valor": "2200.00",
+      "tipo": "despesa",
+      "categoria": "Moradia",
+      "data": "2025-08-10"
+    },
+    {
+      "id": "0077",
+      "descricao": "Financiamento carro",
+      "valor": "850.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-08-10"
+    },
+    {
+      "id": "0078",
+      "descricao": "Supermercado",
+      "valor": "730.20",
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-08-03"
+    },
+    {
+      "id": "0079",
+      "descricao": "Escola filho",
+      "valor": "680.00",
+      "tipo": "despesa",
+      "categoria": "Educação",
+      "data": "2025-08-15"
+    },
+    {
+      "id": "0080",
+      "descricao": "Plano de saúde família",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-08-18"
+    },
+    {
+      "id": "0081",
+      "descricao": "Dia dos Pais",
+      "valor": "180.00",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-08-11"
+    },
+    {
+      "id": "0082",
+      "descricao": "Combustível",
+      "valor": "320.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-08-15"
+    },
+    {
+      "id": "0083",
+      "descricao": "Conta de luz",
+      "valor": "220.60",
+      "tipo": "despesa",
+      "categoria": "Utilidades",
+      "data": "2025-08-20"
+    },
+    {
+      "id": "0084",
+      "descricao": "Livros técnicos",
+      "valor": "240.00",
+      "tipo": "despesa",
+      "categoria": "Tecnologia",
+      "data": "2025-08-28"
+    },
+    {
+      "id": "0085",
+      "descricao": "Salário - Programador",
+      "valor": "9000.00",
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-09-05"
+    },
+    {
+      "id": "0086",
+      "descricao": "Financiamento casa",
+      "valor": "2200.00",
+      "tipo": "despesa",
+      "categoria": "Moradia",
+      "data": "2025-09-10"
+    },
+    {
+      "id": "0087",
+      "descricao": "Financiamento carro",
+      "valor": "850.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-09-10"
+    },
+    {
+      "id": "0088",
+      "descricao": "Supermercado",
+      "valor": "680.90",
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-09-01"
+    },
+    {
+      "id": "0089",
+      "descricao": "Escola filho",
+      "valor": "680.00",
+      "tipo": "despesa",
+      "categoria": "Educação",
+      "data": "2025-09-15"
+    },
+    {
+      "id": "0090",
+      "descricao": "Plano de saúde família",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-09-18"
+    },
+    {
+      "id": "0091",
+      "descricao": "Independência - passeio",
+      "valor": "300.00",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-09-07"
+    },
+    {
+      "id": "0092",
+      "descricao": "Combustível",
+      "valor": "310.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-09-12"
+    },
+    {
+      "id": "0093",
+      "descricao": "Conta de luz",
+      "valor": "195.40",
+      "tipo": "despesa",
+      "categoria": "Utilidades",
+      "data": "2025-09-20"
+    },
+    {
+      "id": "0094",
+      "descricao": "Dentista filho",
+      "valor": "220.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-09-25"
+    },
+    {
+      "id": "0095",
+      "descricao": "Salário - Programador",
+      "valor": "9000.00",
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-10-05"
+    },
+    {
+      "id": "0096",
+      "descricao": "Financiamento casa",
+      "valor": "2200.00",
+      "tipo": "despesa",
+      "categoria": "Moradia",
+      "data": "2025-10-10"
+    },
+    {
+      "id": "0097",
+      "descricao": "Financiamento carro",
+      "valor": "850.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-10-10"
+    },
+    {
+      "id": "0098",
+      "descricao": "Supermercado",
+      "valor": "850.70",
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-10-05"
+    },
+    {
+      "id": "0099",
+      "descricao": "Escola filho",
+      "valor": "680.00",
+      "tipo": "despesa",
+      "categoria": "Educação",
+      "data": "2025-10-15"
+    },
+    {
+      "id": "0100",
+      "descricao": "Plano de saúde família",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-10-18"
+    },
+    {
+      "id": "0101",
+      "descricao": "Dia das Crianças",
+      "valor": "420.00",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-10-12"
+    },
+    {
+      "id": "0102",
+      "descricao": "Combustível",
+      "valor": "335.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-10-18"
+    },
+    {
+      "id": "0103",
+      "descricao": "Conta de luz",
+      "valor": "205.80",
+      "tipo": "despesa",
+      "categoria": "Utilidades",
+      "data": "2025-10-20"
+    },
+    {
+      "id": "0104",
+      "descricao": "Halloween - fantasia",
+      "valor": "150.00",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-10-31"
+    },
+    {
+      "id": "0105",
+      "descricao": "Salário - Programador",
+      "valor": "9000.00",
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-11-05"
+    },
+    {
+      "id": "0106",
+      "descricao": "Financiamento casa",
+      "valor": "2200.00",
+      "tipo": "despesa",
+      "categoria": "Moradia",
+      "data": "2025-11-10"
+    },
+    {
+      "id": "0107",
+      "descricao": "Financiamento carro",
+      "valor": "850.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-11-10"
+    },
+    {
+      "id": "0108",
+      "descricao": "Supermercado",
+      "valor": "920.40",
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-11-02"
+    },
+    {
+      "id": "0109",
+      "descricao": "Escola filho",
+      "valor": "680.00",
+      "tipo": "despesa",
+      "categoria": "Educação",
+      "data": "2025-11-15"
+    },
+    {
+      "id": "0110",
+      "descricao": "Plano de saúde família",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-11-18"
+    },
+    {
+      "id": "0111",
+      "descricao": "Black Friday - eletrônicos",
+      "valor": "1800.00",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-11-29"
+    },
+    {
+      "id": "0112",
+      "descricao": "Combustível",
+      "valor": "290.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-11-15"
+    },
+    {
+      "id": "0113",
+      "descricao": "Conta de luz",
+      "valor": "175.30",
+      "tipo": "despesa",
+      "categoria": "Utilidades",
+      "data": "2025-11-20"
+    },
+    {
+      "id": "0114",
+      "descricao": "Projeto freelance",
+      "valor": "2200.00",
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-11-28"
+    },
+    {
+      "id": "0115",
+      "descricao": "Salário - Programador",
+      "valor": "9000.00",
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-12-05"
+    },
+    {
+      "id": "0117",
+      "descricao": "Financiamento casa",
+      "valor": "2200.00",
+      "tipo": "despesa",
+      "categoria": "Moradia",
+      "data": "2025-12-10"
+    },
+    {
+      "id": "0118",
+      "descricao": "Financiamento carro",
+      "valor": "850.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-12-10"
+    },
+    {
+      "id": "0119",
+      "descricao": "Supermercado Natal",
+      "valor": "1200.50",
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-12-15"
+    },
+    {
+      "id": "0120",
+      "descricao": "Escola filho",
+      "valor": "680.00",
+      "tipo": "despesa",
+      "categoria": "Educação",
+      "data": "2025-12-15"
+    },
+    {
+      "id": "0121",
+      "descricao": "Plano de saúde família",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Saúde",
+      "data": "2025-12-18"
+    },
+    {
+      "id": "0122",
+      "descricao": "Presentes de Natal",
+      "valor": "1500.00",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-12-22"
+    },
+    {
+      "id": "0123",
+      "descricao": "Ceia de Natal",
+      "valor": "450.00",
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-12-24"
+    },
+    {
+      "id": "0124",
+      "descricao": "Combustível",
+      "valor": "380.00",
+      "tipo": "despesa",
+      "categoria": "Transporte",
+      "data": "2025-12-28"
+    },
+    {
+      "id": "0125",
+      "descricao": "Conta de luz",
+      "valor": "240.90",
+      "tipo": "despesa",
+      "categoria": "Utilidades",
+      "data": "2025-12-20"
+    },
+    {
+      "id": "0126",
+      "descricao": "Reveillon",
+      "valor": "800.00",
+      "tipo": "despesa",
+      "categoria": "Lazer",
+      "data": "2025-12-31"
+    },
+    {
+      "id": "7511",
+      "descricao": "frutas",
+      "valor": "50",
+      "tipo": "despesa",
+      "data": "2025-06-09"
+    }
+  ]
+}
