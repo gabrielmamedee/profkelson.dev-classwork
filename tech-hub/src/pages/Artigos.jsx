@@ -21,7 +21,7 @@ const Artigos = () => {
                 <Card.Body>
                     <Card.Title>{artigo.titulo}</Card.Title>
                     <Card.Text>{artigo.resumo}</Card.Text>
-                    <Button variant="primary">Ler mais</Button>
+                    <Button variant="primary" href={`/visualiza-artigo/${artigo.id}`}>Ler mais</Button>
                 </Card.Body>
             </Card>
         ))}
